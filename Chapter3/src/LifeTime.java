@@ -6,6 +6,9 @@ public class LifeTime {
         {
             int y=-1; //initialized each time blocl is entered
             System.out.println("y is"+y);
+            y=100;
+            System.out.println("Y now is:"+y
+            );
         }
     }
 }
